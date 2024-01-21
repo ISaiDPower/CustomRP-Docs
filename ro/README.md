@@ -1,8 +1,7 @@
 # 🏠 Acasă
 
-Bine ai venit la CustomRP docs!
+Bine ai venit la documentația CustomRP!
 
-Vă rugăm să consultați link-ul [Versiuni](https://github.com/maximmax42/Discord-CustomRP/releases) pentru a descărca aplicația sau pagina de [Configurare](setting-up.md) pentru modul de configurare a managerului.
+Te rog să consulți [versiunile](https://github.com/maximmax42/Discord-CustomRP/releases) pentru a descărca aplicația sau pagina de [configurare](setting-up.md) pentru a afla cum se configurează managerul.
 
-Consultați pagina [FAQ](faq.md) pentru răspunsuri la întrebări frecvente și pași de rezolvare pentru probleme relevante.
-
+Consultă pagina de [întrebări frecvente](faq.md) pentru răspunsuri la întrebări des întâlnite și pașii de rezolvare pentru probleme comune.
